@@ -10,4 +10,4 @@
 3. Сравнение качества и скорости обучения моделей.
 
 #### Используемые библиотеки:
-- NumPy, pandas, seaborn, scikit-learn, LightGBM,  CatBoost
+- Python, NumPy, pandas, seaborn, scikit-learn, LightGBM,  CatBoost.

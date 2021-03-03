@@ -11,4 +11,4 @@
 4. Сравнение качества моделей и сравнение с константной моделью.
 
 #### Используемые библиотеки:
-- NumPy, pandas, Matplotlib, seaborn, scikit-learn.
+- Python, NumPy, pandas, Matplotlib, seaborn, scikit-learn.

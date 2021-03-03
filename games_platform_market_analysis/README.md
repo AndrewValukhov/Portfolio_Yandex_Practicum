@@ -12,4 +12,4 @@
 4. Проверка статистических гипотез (сравнение средних рейтингов между платформами и между жанрами).
 
 #### Используемые библиотеки:
-- NumPy, pandas, Matplotlib, seaborn, SciPy.
+- Python, NumPy, pandas, Matplotlib, seaborn, SciPy.
